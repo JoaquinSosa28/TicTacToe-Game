@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549727935 source:e:\programming\c\tictactoegamechallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
