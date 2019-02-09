@@ -6,3 +6,5 @@ Once opened Player 1 should enter a number(1-9) to place x
 After every move it switches players
 
 Once there is 3 X or 3 O in a row there is a winner
+#ToDo
+I'm trying to solve a problem when you input a char or a string instead of a number
